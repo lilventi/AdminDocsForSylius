@@ -1,27 +1,28 @@
 ## Customers Index Page
 
-To access this page, find the Customer section in the sidebar menu and click the "Customers" menu item.
+To access this page, find the 'Customer' section in the sidebar menu and click the "Customers" menu item.
 
-On this page you can search customers and create new ones.
+On this page you can search for customers and create new ones.
 
 ![alt text](../assets/images/Customer/Customers/index.png "Order Shipments")
 
-The filter searches by email, first name and last name.
+This filter searches by email, first name and last name.
 
-Main section of this page is the customers table.
+The main section of this page is the table displaying customer data. 
 
+It contains:
  - first name
  - last name
  - email
  - registration date
- - enabled - whether customer is enabled to log in or not
- - verified - whether customer has verified their email address
+ - enabled - whether or not the customer is enabled to log in
+ - verified - whether or not the customer has verified their email address
  - actions
  
 Actions are:
  - show orders - to view related orders
  - show - shows more detail about the customer
- - edit - takes to the edit page
+ - edit - navigates to the edit page
  
  ## Customer Show Page
  
@@ -42,23 +43,27 @@ Actions are:
  
   ![alt text](../assets/images/Customer/Customers/create.png "Order Shipments")
  
-  1. Go to the Customer Index Page
+  1. Navigate to the Customer Index Page
   2. Click the "Create" button in the top right corner
-  3. Fill out the form
+  3. Fill out the related form
   
- Make sure that on the "Account credentials" section:
+ In the "Account credentials" section, be sure that: 
   - "Customer can login to store" is checked
   - "Enabled" is checked
-  - you've entered a password
+  - You've entered a password
   
  ## How to edit details about a customer?
  1. Go to the Customer Index Page
- 2. Type in the customer's email address in the Search filter; click "Filter"
- 3. Find the customer in the customers table and click the "Edit" button in the "Actions" column
- 4. Change the relevant fields.
- 5. Click the "Save changes" button
+ 2. Type in the customer's email address in the Search filter
+ 3. Click "Filter"
+ 4. Find the customer in the customers table
+ 5. Click the "Edit" button in the "Actions" column
+ 6. Change the relevant fields
+ 7. Click the "Save changes" button
  
  ## How to find orders related to a customer?
    1. Go to the Customer Index Page
-   2. Type in the customer's email address in the Search filter; click "Filter"
-   3. Find the customer in the table below and click the "Show orders" button in the "Actions" column
+   2. Type in the customer's email address in the Search filter
+   3. Click "Filter"
+   4. Find the customer in the table below
+   5. Click the "Show orders" button in the "Actions" column
